@@ -8,7 +8,6 @@ class Bmi
                             double bmi;
                             boolean status;
                             Scanner sc=new Scanner(System.in);
-                            System.out.println("Name:N.D.Nitesh \nRoll.No:2024503529");
                             System.out.println("Enter the height(in m):");
                             h=sc.nextDouble();
                             System.out.println("Enter the weight(in kg):");
