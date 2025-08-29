@@ -21,7 +21,6 @@ class School{
 }
     public class SchoolInfo {
         public static void main(String[] args) {
-            System.out.println("Name:N.D.Nitesh\nRoll NO:2024503529");
             School.schoolInfo();
             School s1=new School("Kala");
             s1.display();
