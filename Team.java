@@ -7,7 +7,6 @@ class Team
  		    byte fouls;
                     boolean winstatus;
 	            Scanner sc=new Scanner(System.in);
-                    System.out.println("Name:N.D.Nitesh \nRoll.No:2024503529");
                     System.out.println("Enter team runs:");
                     runs=sc.nextInt();
                     System.out.println("Enter the fouls:");
