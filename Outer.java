@@ -22,7 +22,6 @@ class Outer
 
         public class Access {
             public static void main(String[] args) {
-                System.out.println("Name:N.D.Nitesh\nRoll NO:2024503529");
                 Outer.PublicNested p1=new Outer.PublicNested();
                 p1.show();
                 Outer.access();
