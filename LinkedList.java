@@ -86,7 +86,6 @@ public void delete(int data) {
 
        public static void main(String[] args) {
         LinkedList list = new LinkedList();
-         System.out.println("Name:N.D.Nitesh\nRoll NO:2024503529");
 
         list.display();           
         list.add(10);
