@@ -21,7 +21,6 @@ class OuterClass{
 }
     public class MainAccess {
         public static void main(String[] args) {
-            System.out.println("Name:N.D.Nitesh\nRoll NO:2024503529");
             OuterClass o2=new OuterClass();
             OuterClass.PublicInner p2=o2.new PublicInner();
             p2.display();
