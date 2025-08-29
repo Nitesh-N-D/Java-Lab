@@ -74,7 +74,6 @@ class Bird extends Animal
 }
 public class OverLoadAndRide {
     public static void main(String[] args) {
-        System.out.println("Name:N.D.Nitesh\nRoll NO:2024503529");
         Animal a=new Animal();
         Dog d=new Dog();
         Cat c=new Cat();
