@@ -6,7 +6,6 @@ class Temp
             double c,f;
             boolean hot;
             Scanner sc=new Scanner(System.in);
-            System.out.println("Name:N.D.Nitesh \nRoll.No:2024503529");
             System.out.println("Enter the temperature(in Celsius):");
             c=sc.nextDouble();
             f=(c*9/5)+32;
