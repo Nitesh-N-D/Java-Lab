@@ -1,3 +1,5 @@
+## Simple Login System in Java
+Implements a **console-based login** that verifies username and password, tracks failed attempts, and allows exiting with "exit".
 import java.util.Scanner;
 
 public class Login {
