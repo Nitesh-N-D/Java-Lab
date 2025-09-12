@@ -1,3 +1,5 @@
+## Traffic Light Simulator in Java
+Simulates a **traffic light** by taking user input for color and displaying the corresponding action (Stop, Ready to move, Go).
 import java.util.Scanner;
 
 public class TrafficLight
