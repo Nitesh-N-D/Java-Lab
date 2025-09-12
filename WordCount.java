@@ -1,3 +1,5 @@
+## Word Count in Java
+Counts the **number of words** in a user-input string, ignoring extra spaces.
 import java.util.Scanner;
 
 public class WordCount {
