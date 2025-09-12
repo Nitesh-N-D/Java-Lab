@@ -1,3 +1,5 @@
+## Singly Linked List in Java
+Implements a **singly linked list** with operations to **add, delete, search, and display** elements using a menu-less demonstration in main().
 public class LinkedList {
     private static class Node {
         int data;
