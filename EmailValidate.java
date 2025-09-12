@@ -1,3 +1,5 @@
+## Email Validation in Java
+Validates email addresses, checks format and domain, and extracts the **username** and **domain** if valid.
 import java.util.Scanner;
 
 public class EmailValidate
