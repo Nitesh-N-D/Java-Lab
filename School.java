@@ -1,3 +1,5 @@
+## School and Student Information in Java
+Demonstrates **static blocks, static methods, and instance variables** to display school and student details.
 class School{
     static String sname;
     String stuname;
