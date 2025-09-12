@@ -1,3 +1,5 @@
+## Student Result Calculator in Java
+Calculates **total, average, grade**, and **pass/fail status** based on marks for three subjects.
 import java.util.Scanner;
 class Result
 {
