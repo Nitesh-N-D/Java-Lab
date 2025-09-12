@@ -1,3 +1,5 @@
+## Celsius to Fahrenheit Converter in Java
+Converts temperature from **Celsius to Fahrenheit** and indicates if it is considered **hot** (F > 100).
 import java.util.Scanner;
 class Temp
 { 
