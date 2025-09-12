@@ -1,3 +1,5 @@
+## String Reversal in Java
+Reverses a user-input string using **character array swapping** and displays the reversed result.
 import java.util.Scanner;
 
 public class StringReversal {
