@@ -1,3 +1,5 @@
+## Vowel Frequency Counter in Java
+Counts and displays the **frequency of each vowel (a, e, i, o, u)** in a user-input string.
 import java.util.Scanner;
 
 public class VowelCount {
