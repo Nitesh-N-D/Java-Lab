@@ -1,3 +1,5 @@
+## Java Static Nested Classes
+Demonstrates **public and private static nested classes** in Java. Shows how static nested classes can be accessed directly from the outer class or via a static method.
 class Outer
 {
     public static class PublicNested
