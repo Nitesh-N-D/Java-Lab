@@ -1,3 +1,4 @@
+This program simulates athletes with attributes like energy and skill power. They can compete, rest, or train, affecting their stats. It demonstrates object interaction, status updates, and tracks the total number of athletes.
 import java.util.Scanner;
 import java.util.Random;
  class Athlete {
