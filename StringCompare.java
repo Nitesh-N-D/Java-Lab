@@ -1,3 +1,5 @@
+## String Comparison in Java
+Compares two strings in **dd.mm.ss format** and determines which one is greater or if they are equal.
 import java.util.Scanner;
 
 public class StringCompare
