@@ -1,3 +1,8 @@
+## BMI Calculator in Java
+Calculates Body Mass Index (BMI) from user-input height and weight,  
+checks if BMI is normal (18.5–25), and displays the BMI value with status.  
+Interactive console-based program for quick BMI assessment.
+
 import java.util.Scanner;
 class Bmi
 {
