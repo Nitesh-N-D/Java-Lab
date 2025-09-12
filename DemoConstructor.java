@@ -1,3 +1,5 @@
+## Demo of Default Constructor in Java
+Illustrates the use of a **default constructor** to initialize class members and display their values.
 class DemoConstructor{
     int a;
     String text;
