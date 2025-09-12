@@ -1,3 +1,5 @@
+## Student Class with Static Members in Java
+Demonstrates **static variables and methods** to track total students and display individual student details.
 class Student {
  static int totalStudents = 0;
  String name;
