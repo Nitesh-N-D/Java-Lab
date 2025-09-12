@@ -1,3 +1,5 @@
+## Multilevel Inheritance in Java
+Demonstrates **multilevel inheritance** where `LivingBeing` is the base class, `Animal` inherits from it, and `Cat` & `Dog` inherit from `Animal`. Shows **constructor chaining** and specialized methods like `Meow()` and `Bark()`.
 
 class LivingBeing {
 
