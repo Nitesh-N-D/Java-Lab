@@ -1,3 +1,5 @@
+## Student Attendance Tracker in Java
+Records daily attendance for multiple students, calculates **daily percentages**, and computes the **weekly attendance percentage**.
 import java.util.Scanner;
 
 public class StudentAttendance {
