@@ -1,3 +1,5 @@
+## Product Discount Calculator in Java
+Demonstrates **naming conflicts resolution** using `this` keyword and calculates **discounted price** for a product.
 import java.util.Scanner;
 class Product
 {
