@@ -1,3 +1,5 @@
+## Hierarchical Inheritance in Java
+Demonstrates **hierarchical inheritance** with a LivingBeing base class and derived classes for LandAnimal, WaterAnimal, Dog, and Cat, showcasing constructors and specific behaviors.
 
 class LivingBeing{
 
