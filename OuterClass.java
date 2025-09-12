@@ -1,3 +1,5 @@
+## Java Inner Classes
+Demonstrates **public and private inner classes** in Java, showing access to inner class methods from the outer class and the main method.
 class OuterClass{
     public class PublicInner
     {
