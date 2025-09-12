@@ -1,3 +1,5 @@
+## 3x3 Matrix Row Sum in Java
+Calculates the **sum of each row** in a 3x3 matrix and identifies the **row with the highest sum**.
 import java.util.Scanner;
 
 public class MatrixSum {
