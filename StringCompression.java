@@ -1,3 +1,5 @@
+## String Compression in Java
+Performs **run-length encoding** on a string to compress consecutive characters and displays the compressed or original string if shorter.
 import java.util.Scanner;
 
 public class StringCompression
