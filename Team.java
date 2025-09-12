@@ -1,3 +1,5 @@
+## Team Win Status Checker in Java
+Evaluates a team's **win status** based on runs scored and fouls committed, and displays the results.
 import java.util.Scanner;
 class Team
 {
