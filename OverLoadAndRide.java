@@ -1,4 +1,6 @@
-//This program demonstrates method overloading and overriding in Java. Animal methods are overloaded with different parameters, while Dog, Cat, and Bird override them. Using polymorphism, each subclass exhibits its specific behavior when move() methods are called.//
+## Method Overloading and Overriding in Java
+Demonstrates **method overloading** and **runtime method overriding** with an Animal hierarchy including Dog, Cat, and Bird classes.
+
 class Animal{
     void move() {
         System.out.println("Animal is Moving");
