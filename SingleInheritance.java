@@ -1,3 +1,5 @@
+## Single Inheritance in Java
+Demonstrates **single inheritance** with a LivingBeing base class and an Animal derived class, showing constructors and specific behaviors.
 
 class LivingBeing {
 
