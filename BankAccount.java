@@ -1,3 +1,5 @@
+## Bank Account in Java
+Implements a simple bank account system with **deposit, display**, and **total account tracking** using object-oriented programming.
 import java.util.Scanner;
 
 public class BankAccount {
