@@ -1,3 +1,5 @@
+## Bank Account Operations in Java
+Implements deposit, withdrawal, and transfer between accounts with **method chaining** and displays account balances.
 import java.util.Scanner;
 class BankAccounts
 {
