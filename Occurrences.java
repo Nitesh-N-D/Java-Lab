@@ -1,3 +1,5 @@
+## Character Occurrences in a String (Java)
+Counts and displays the **number of occurrences of each character** in a given string using a **HashMap**. Demonstrates **iterating over characters** and **map operations** in Java.
 
 import java.util.Scanner;
 
