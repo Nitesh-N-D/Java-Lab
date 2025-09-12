@@ -1,3 +1,9 @@
+## Anagram Checker in Java
+Program to check if two strings are **anagrams** of each other. 
+The program:
+- Ignores **case** and **whitespace** differences
+- Uses **character arrays** and **sorting** to compare the strings
+- Provides an **interactive input** via the console
 
 import java.util.Arrays;
 
