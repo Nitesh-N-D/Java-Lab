@@ -1,3 +1,5 @@
+## Vaccination Eligibility Checker in Java
+Checks patient eligibility based on age, assigns appointment slots, and provides gifts based on the last digit of a 3-digit appointment number.
 import java.util.Scanner;
 
 public class Eligibility {
