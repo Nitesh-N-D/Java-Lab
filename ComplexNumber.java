@@ -1,11 +1,10 @@
-//
-This Java program implements a ComplexNumber class that supports:
-Addition, subtraction, multiplication, and division of complex numbers
-Equality check between two complex numbers
-Custom string representation in a+bi or a-bi format
-A demo in the main method showcasing all operations
-//
-  
+## Complex Number Operations in Java  
+Program to perform **arithmetic operations on complex numbers**.  
+The program:  
+- Implements **addition, subtraction, multiplication, and division** for complex numbers  
+- Checks for **equality** between two complex numbers  
+- Uses **toString()** to display complex numbers in standard `a+bi` or `a-bi` format  
+- Demonstrates object-oriented design with **methods returning new ComplexNumber objects**  
 public class ComplexNumber {
     private double real,imaginary;
     public ComplexNumber(double real,double imaginary)
