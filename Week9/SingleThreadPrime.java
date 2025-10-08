@@ -1,6 +1,10 @@
 ## Single-Thread Prime Number Finder in Java  
-Finds all **prime numbers** in a given range using a **single thread** and measures the execution time.
-  
+Program to find **prime numbers** in a specified range using a **single thread**.  
+The program:  
+- Checks each number for primality using a simple **trial division** method  
+- Measures and displays the **execution time** for the computation  
+- Demonstrates **basic performance timing** in Java
+
 public class SingleThreadPrime {
     public static void main(String[] args) {
         int start=1;
