@@ -1,4 +1,4 @@
-## Calculator in Java  
+## Calculator in Java
 Program to demonstrate **exception handling** in arithmetic operations.  
 The program:  
 - Converts user input strings into integers using `Integer.parseInt()`  
