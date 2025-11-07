@@ -1,3 +1,9 @@
+#Login Servlet in Java
+
+Simple servlet program to demonstrate user authentication using HTTP POST method.
+It validates username and password, and displays success or failure message in the browser.
+    
+
 import java.io.*;
 import jakarta.servlet.*;
 import jakarta.servlet.http.*;
