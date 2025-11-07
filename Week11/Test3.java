@@ -22,7 +22,7 @@ class WolfDog implements Companion {
     }
 }
 
-public class UniqueInterfaceInheritance {
+public class Test3 {
     public static void main(String[] args) {
     
         WolfDog myPet = new WolfDog();
